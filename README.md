@@ -1,3 +1,3 @@
-# Nuxtu repository for the Low Level Programming selection process
+# RSA algorithm
 
 Fork this repository as the base for your solution.
