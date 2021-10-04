@@ -16,7 +16,7 @@ Book of reference https://secure-media.collegeboard.org/apc/ap01.pdf.lr_7928.pdf
 
 The solution presented is in charge of encrypting a message written only in capital letters, based on the criterias given in the following table to encrypt
 
-| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+|Letter | Code |
 | ------------- | ------------- |
 | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
