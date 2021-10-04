@@ -13,3 +13,9 @@ where it is suggested to work with the numbers treating them as strings.
 Book of reference https://secure-media.collegeboard.org/apc/ap01.pdf.lr_7928.pdf
 
 ![slt-text](https://github.com/SebasSA1/nuxtu-LLP/blob/main/RSA.gif)
+
+
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
